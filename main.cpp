@@ -1,3 +1,5 @@
+// Owen Radcliffe Project 1, October 26, 2018
+
 #include <iostream>
 #include <string>
 #include "SugarReadingList.h"
